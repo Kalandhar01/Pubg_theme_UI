@@ -22,7 +22,7 @@ Check out the live version: [The Ultimate Gaming UI](https://release-ani-v5xt.ve
 ## 📸 Screenshots
 
 ### Home Page
-![Home Page](https://via.placeholder.com/800x400.png?text=Home+Page)
+![Home Page](https://ibb.co/4dWYvxN)
 
 ### Game Menu
 ![Game Menu](https://via.placeholder.com/800x400.png?text=Game+Menu)
