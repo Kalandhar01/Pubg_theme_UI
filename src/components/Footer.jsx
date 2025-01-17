@@ -5,9 +5,9 @@ import { FaTwitter } from 'react-icons/fa6'
 const links = [
 
   {
-    href:'https://discord.com' , icon:  <FaTwitter/>,
-    href:'https://discord.com' , icon:  <FaInstagram/>,
-    href:'https://discord.com' , icon:  <FaGit/>,
+    href:'https://github.com/kalandhar01' , icon:  <FaTwitter/>,
+    href:'https://github.com/kalandhar01' , icon:  <FaInstagram/>,
+    href:'https://github.com/kalandhar01' , icon:  <FaGit/>,
   }
 ]
 
