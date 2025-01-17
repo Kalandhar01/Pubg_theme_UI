@@ -65,7 +65,7 @@ const Navbar = () => {
   return (
     <div
       ref={navContainerRef}
-      className="fixed inset-x-0 top-4 h-16 border-none transition-all duration-700 sm:inset-x-5 z-50 max-sm:w-[92%] max-sm:ml-1 "
+      className="fixed inset-x-0 top-4 h-16 border-none transition-all duration-700 sm:inset-x-5 z-50 max-sm:w-[70%] max-sm:ml-1 "
     >
       <header className="absolute top-1/2 w-full  -translate-y-1/2">
       
